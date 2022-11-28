@@ -4,10 +4,3 @@ class Solution:
             if i == i[:][::-1]:
                 return i
         return ""
-                
-
-                
-                
-                
-            
-        
