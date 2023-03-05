@@ -7,4 +7,3 @@ class Solution:
                 new.append(int(j))
         
         return sum(nums)-sum(new)
-        
